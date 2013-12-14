@@ -3,7 +3,7 @@
 ### Hello,
 Google Now Swipe Disabler is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional useful features.. but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
 
-To get updates and participate in the beta program join the [community][G+community] on Google+.
+To get updates and participate in the beta program join the [community][G+community] on Google+. Once in the beta, you'll be among the first to recieve bugfixes and new features, but you might experience little quirks or (hopefully not) crashes.
 
 
 # How-to
@@ -36,7 +36,7 @@ It's also helpful if you report the crash using android's crash report system. G
 I've gotten plenty of emails asking for this feature, and I'd love to add it, but android won't let me. I'm able to invoke the menu button on myself(the app's self), but that won't do any good. Without root, it is impossible (I think, please please correct me if I'm wrong) to send a menu button press.
 
 ### Can you add ___ as a special action?
-Hm, maybe. I may have already thought of it, and found it impractical to add, but feel free to send me an email with your request and I'll try my best to add it. :)
+Hm, maybe. I may have already thought of it, and found it impractical to add, but I most likely haven't so create a new [issue](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) with the label "Action request" and I'll try my best to add it. :)
 
 
 ### Can you write the app in my language?
