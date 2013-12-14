@@ -1,16 +1,6 @@
 [![][SmIcon]][PlaystoreLink] Google Now Swipe Disabler
 ======================
-
-
-
-
-Desc.
-  * 1
-  * 2
-
-1.4.4
-
-
+### Hello,
 Google Now Swipe Disabler is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional useful features.. but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
 
 To get updates and participate in the beta program join the [community][G+community] on Google+.
