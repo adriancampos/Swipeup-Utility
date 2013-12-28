@@ -43,6 +43,10 @@ Hm, maybe. I may have already thought of it, and found it impractical to add, bu
 
 If you'd like to help translate this app to your language, download the and I'll be glad to add the translation to the app.
 
+### My question isn't listed here :o
+
+Feel free to ask me via email or post an [issue](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) with your question and I'll be happy to help. 
+
 
 [PlaystoreLink]: https://play.google.com/store/apps/details?id=com.AdrianCampos.googlenowswipedisabler
 [Icon]: https://lh6.ggpht.com/VNQdt1qsJL-5AJkuj1xlfVXjebCswWBuIRV9_DkH4K9w5yoiwd0IMCxj_CKRzsBfTq9p=w300-rw
