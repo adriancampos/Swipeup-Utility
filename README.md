@@ -1,10 +1,11 @@
 [![][SmIcon]][PlaystoreLink] Google Now Swipe Disabler
 ======================
 ### Hello,
-Google Now Swipe Disabler is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional useful features.. but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
+Google Now Swipe Disabler is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional *useful* features- those are all in the free versoin. ..but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
 
 To get updates and participate in the beta program join the [community][G+community] on Google+. Once in the beta, you'll be among the first to recieve bugfixes and new features, but you might experience little quirks or (hopefully not) crashes.
 
+---
 
 # How-to
 ### First Setup
@@ -21,7 +22,6 @@ To get updates and participate in the beta program join the [community][G+commun
 
 
 ### The app isn't working for me. It's crashing or there's some weird bug.
-
 First check [issues](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) and see if the bug has already
 been reported. If not, create a new issue with:
 
@@ -40,11 +40,13 @@ Hm, maybe. I may have already thought of it, and found it impractical to add, bu
 
 
 ### Can you write the app in my language?
-
 If you'd like to help translate this app to your language, download the and I'll be glad to add the translation to the app.
 
-### My question isn't listed here :o
+### Can I change the icon in the semicircle? Sometimes it's a Google logo, other times it's a magnifying glass, and with the app, it's not there at all.
+"You cannot change the manifest or the resource in a signed-and-sealed APK, except through a software upgrade." That pretty much answers it. In order to change the icon, I'd need to release an update with that new icon set as default. So the app itself cannot add a new icon (or take from another app) for its own use. I could include a few set in stone icons to choose from, so if you have any ideas, shoot me an email and I'll consider adding them. :)
 
+
+### My question isn't listed here :o
 Feel free to ask me via email or post an [issue](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) with your question and I'll be happy to help. 
 
 
