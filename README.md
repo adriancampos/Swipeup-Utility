@@ -1,7 +1,7 @@
-[![][SmIcon]][PlaystoreLink] Google Now Swipe Disabler
+[![][SmIcon]][PlaystoreLink] Swipup Utility
 ======================
 ### Hello,
-Google Now Swipe Disabler is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional *useful* features- those are all in the free versoin. ..but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
+Swipup Utility is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional *useful* features- those are all in the free versoin. ..but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
 
 To get updates and participate in the beta program join the [community][G+community] on Google+. Once in the beta, you'll be among the first to recieve bugfixes and new features, but you might experience little quirks or (hopefully not) crashes.
 
@@ -10,10 +10,10 @@ To get updates and participate in the beta program join the [community][G+commun
 # How-to
 ### First Setup
 * After [downloading][PlaystoreLink], swipe up from the bottom of your screen.
-* A box asking what to do with the gesture will come up. Choose to always use Google Now Swipe Disabler. You can change this later by tapping the "Clear defaults" button in the app's menu.
+* A box asking what to do with the gesture will come up. Choose to always use Swipup Utility. You can change this later by tapping the "Clear defaults" button in the app's menu.
 
 ### Usage
-* If you only want the swipe to do nothing, you're done! If not, you can go into Google Now Swipe Disabler and choose an action under the "Choose action" button.
+* If you only want the swipe to do nothing, you're done! If not, you can go into Swipup Utility and choose an action under the "Choose action" button.
 
 
 # FAQ
@@ -51,7 +51,7 @@ I'm trying out www.localize.io as a service to help crowd-translate. If you'd li
 Feel free to ask me via email or post an [issue](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) with your question and I'll be happy to help. 
 
 
-[PlaystoreLink]: https://play.google.com/store/apps/details?id=com.AdrianCampos.googlenowswipedisabler
+[PlaystoreLink]: https://play.google.com/store/apps/details?id=com.AdrianCampos.swipeuputility
 [Icon]: https://lh6.ggpht.com/VNQdt1qsJL-5AJkuj1xlfVXjebCswWBuIRV9_DkH4K9w5yoiwd0IMCxj_CKRzsBfTq9p=w300-rw
 [SmIcon]: https://lh6.ggpht.com/VNQdt1qsJL-5AJkuj1xlfVXjebCswWBuIRV9_DkH4K9w5yoiwd0IMCxj_CKRzsBfTq9p=w32-rw
 [G+community]: https://plus.google.com/communities/101796628081413739274
