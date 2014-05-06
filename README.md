@@ -52,7 +52,7 @@ Feel free to ask me via email or post an [issue](https://github.com/aecl755/Goog
 
 
 [PlaystoreLink]: https://play.google.com/store/apps/details?id=com.AdrianCampos.swipeuputility
-[Icon]: https://lh6.ggpht.com/VNQdt1qsJL-5AJkuj1xlfVXjebCswWBuIRV9_DkH4K9w5yoiwd0IMCxj_CKRzsBfTq9p=w300-rw
-[SmIcon]: https://lh6.ggpht.com/VNQdt1qsJL-5AJkuj1xlfVXjebCswWBuIRV9_DkH4K9w5yoiwd0IMCxj_CKRzsBfTq9p=w32-rw
+[Icon]: https://lh5.ggpht.com/w2Wu_LVw8xxqXXBnYWflA7qX8UKsfxbhXn09bH5aOcuoC7VVzMfGeJahmqaZ0FzJlts=w300-rw
+[SmIcon]: https://lh5.ggpht.com/w2Wu_LVw8xxqXXBnYWflA7qX8UKsfxbhXn09bH5aOcuoC7VVzMfGeJahmqaZ0FzJlts=w32-rw
 [G+community]: https://plus.google.com/communities/101796628081413739274
 [DonateLink]: https://play.google.com/store/apps/details?id=com.AdrianCampos.gnsddonate
