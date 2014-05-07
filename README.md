@@ -1,7 +1,7 @@
 [![][SmIcon]][PlaystoreLink] Swipup Utility
 ======================
 ### Hello,
-Swipup Utility is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional *useful* features- those are all in the free versoin. ..but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
+Swipup Utility is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional *useful* features- those are all in the free version. ..but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
 
 To get updates and participate in the beta program join the [community][G+community] on Google+. Once in the beta, you'll be among the first to recieve bugfixes and new features, but you might experience little quirks or (hopefully not) crashes.
 
@@ -40,7 +40,7 @@ Hm, maybe. I may have already thought of it, and found it impractical to add, bu
 
 
 ### Can you write the app in my language?
-If you'd like to help translate this app to your language, download the and I'll be glad to add the translation to the app.
+If you'd like to help translate this app to your language, download the strings xml file and I'll be glad to add the translation to the app.
 I'm trying out www.localize.io as a service to help crowd-translate. If you'd like to contribute, go to http://www.localize.io/projects/39 and translate some strings into your language and I'll be sure to include it in the app. Thanks.
 
 ### Can I change the icon in the semicircle? Sometimes it's a Google logo, other times it's a magnifying glass, and with the app, it's not there at all.
