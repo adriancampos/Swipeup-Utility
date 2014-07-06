@@ -41,7 +41,7 @@ Hm, maybe. I may have already thought of it, and found it impractical to add, bu
 
 ### Can you write the app in my language?
 If you'd like to help translate this app to your language, download the strings xml file and I'll be glad to add the translation to the app.
-I'm trying out www.localize.io as a service to help crowd-translate. If you'd like to contribute, go to http://www.localize.io/projects/39 and translate some strings into your language and I'll be sure to include it in the app. Thanks.
+I'm trying out onesky.io as a service to help crowd-translate. If you'd like to contribute, go to http://translate.aecampos.com and translate some strings into your language and I'll be sure to include it in the app. Thanks.
 
 ### Can I change the icon in the semicircle? Sometimes it's a Google logo, other times it's a magnifying glass, and with the app, it's not there at all.
 "You cannot change the manifest or the resource in a signed-and-sealed APK, except through a software upgrade." That pretty much answers it. In order to change the icon, I'd need to release an update with that new icon set as default. So the app itself cannot add a new icon (or take from another app) for its own use. I could include a few set in stone icons to choose from, so if you have any ideas, shoot me an email and I'll consider adding them. :)
