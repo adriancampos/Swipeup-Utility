@@ -1,7 +1,7 @@
 [![][SmIcon]][PlaystoreLink] Swipup Utility
 ======================
 ### Hello,
-Swipup Utility is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. Since I want to offer the best features for free, you won't be getting any additional *useful* features- those are all in the free version. ..but you might get some "fun" things to play around with inside the app. (No promises, you're not buying those features, it's a donation. Just thought I'd make that clear.)
+Swipup Utility is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. You'll gain access to some extra Special Actions, and you'll be heping the app grow! Or, if you'd like to help, but don't want to spend the money, that's fine, a good rating helps too! (And it's free!) 
 
 To get updates and participate in the beta program join the [community][G+community] on Google+. Once in the beta, you'll be among the first to recieve bugfixes and new features, but you might experience little quirks or (hopefully not) crashes.
 
