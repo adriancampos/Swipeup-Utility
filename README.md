@@ -1,19 +1,24 @@
 [![][SmIcon]][PlaystoreLink] Swipup Utility
 ======================
 ### Hello,
-Swipup Utility is free, but if you find it useful and want to support its development, you can make a donation by [purchasing the "Donate"][DonateLink] version from the Play Store. You'll gain access to some extra Special Actions, and you'll be heping the app grow! Or, if you'd like to help, but don't want to spend the money, that's fine, a good rating helps too! (And it's free!) 
+Swipeup Utility is free, but if you find it useful and want to help its development, I'd love your support. A good [rating][PlaystoreLink] or a small [donation][DonateLink] goes a long way, and if you donate, you'll gain access to some special goodies like new Actions!
+Thank you.
 
-To get updates and participate in the beta program join the [community][G+community] on Google+. Once in the beta, you'll be among the first to recieve bugfixes and new features, but you might experience little quirks or (hopefully not) crashes.
+To get updates and participate in the beta program, please join the [Google + community][G+community] and join the beta [on Google Play][gplaybetaLink]. Once in the beta, you'll be among the first to recieve bugfixes and new features, but you might experience a few quirks or crashes.
 
 ---
 
 # How-to
 ### First Setup
-* After [downloading][PlaystoreLink], swipe up from the bottom of your screen.
-* A box asking what to do with the gesture will come up. Choose to always use Swipup Utility. You can change this later by tapping the "Clear defaults" button in the app's menu.
+#### If you're on 6.0 or above:
+* Ensure that the default assist app is set to Swipeup Utility. You can get there from [Swipeup Utility][PlaystoreLink]'s `Set Default Assist App` menu item.
+
+#### If you're on 5.1.1 or below:
+* After [downloading][PlaystoreLink], hold the home button, swipe up from the bottom of your screen, or do whatever your device requires to activate the assist function.
+* A box asking what to do with the gesture will come up. Choose to always use Swipup Utility. You can change this later by tapping the `Clear defaults` button in the app's menu.
 
 ### Usage
-* If you only want the swipe to do nothing, you're done! If not, you can go into Swipup Utility and choose an action under the "Choose action" button.
+* If you only want the swipe to do nothing, you're done! If not, you can go into Swipup Utility and choose an action under the `Choose action` button.
 
 
 # FAQ
@@ -44,7 +49,7 @@ If you'd like to help translate this app to your language, download the strings 
 I'm trying out onesky.io as a service to help crowd-translate. If you'd like to contribute, go to http://translate.aecampos.com and translate some strings into your language and I'll be sure to include it in the app. Thanks.
 
 ### Can I change the icon in the semicircle? Sometimes it's a Google logo, other times it's a magnifying glass, and with the app, it's not there at all.
-"You cannot change the manifest or the resource in a signed-and-sealed APK, except through a software upgrade." That pretty much answers it. In order to change the icon, I'd need to release an update with that new icon set as default. So the app itself cannot add a new icon (or take from another app) for its own use. I could include a few set in stone icons to choose from, so if you have any ideas, shoot me an email and I'll consider adding them. :)
+"You cannot change the manifest or the resource in a signed-and-sealed APK, except through a software upgrade." That pretty much answers it. In order to change the icon, I'd need to release an update with that new icon set as default. So the app itself cannot add a new icon (or take from another app) for its own use. The donate version includes a few set in stone icons to choose from, and if you want more, shoot me an email and I'll consider adding them. :)
 
 
 ### My question isn't listed here :o
@@ -56,3 +61,4 @@ Feel free to ask me via email or post an [issue](https://github.com/aecl755/Goog
 [SmIcon]: https://lh6.ggpht.com/FVl8gWwP7R71hNpbvo38rXv8MjbvXPNAQUaERYC9_yYxFfNupj6dzG1h13cZXxZCYLI=w32-rw
 [G+community]: https://plus.google.com/communities/101796628081413739274
 [DonateLink]: https://play.google.com/store/apps/details?id=com.AdrianCampos.gnsddonate
+[gplaybetaLink]: https://play.google.com/apps/testing/com.AdrianCampos.swipeuputility
