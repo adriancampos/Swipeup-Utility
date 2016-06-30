@@ -12,9 +12,10 @@ To get updates and participate in the beta program, please join the [Google + co
 ### First Setup
 #### If you're on 6.0 or above:
 * Ensure that the default assist app is set to Swipeup Utility. You can get there from [Swipeup Utility][PlaystoreLink]'s `Set Default Assist App` menu item.
-
+![Tutorial Gif](https://ibin.co/2mPn4wQSAZoY.gif)
 #### If you're on 5.1.1 or below:
 * After [downloading][PlaystoreLink], hold the home button, swipe up from the bottom of your screen, or do whatever your device requires to activate the assist function.
+![Tutorial Gif](https://ibin.co/2mPnYbOEsjUI.gif)
 * A box asking what to do with the gesture will come up. Choose to always use Swipup Utility. You can change this later by tapping the `Clear defaults` button in the app's menu.
 
 ### Usage
