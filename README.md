@@ -49,11 +49,11 @@ If you'd like to help translate this app to your language, download the strings 
 I'm trying out onesky.io as a service to help crowd-translate. If you'd like to contribute, go to http://translate.aecampos.com and translate some strings into your language and I'll be sure to include it in the app. Thanks.
 
 ### Can I change the icon in the semicircle? Sometimes it's a Google logo, other times it's a magnifying glass, and with the app, it's not there at all.
-"You cannot change the manifest or the resource in a signed-and-sealed APK, except through a software upgrade." That pretty much answers it. In order to change the icon, I'd need to release an update with that new icon set as default. So the app itself cannot add a new icon (or take from another app) for its own use. The donate version includes a few set in stone icons to choose from, and if you want more, shoot me an email and I'll consider adding them. :)
+"You cannot change the manifest or the resource in a signed-and-sealed APK, except through a software upgrade." That pretty much answers it. In order to change the icon, I need to release an update with that new icon included. The donate version includes a few set in stone icons to choose from, and if you want more, create an [issue](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) with the Icon Request label and I'll do my best to add it. :)
 
 
 ### My question isn't listed here :o
-Feel free to ask me via email or post an [issue](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) with your question and I'll be happy to help. 
+Feel free to post an [issue](https://github.com/aecl755/GoogleNowSwipeDisabler/issues) with your question and I'll be happy to help. 
 
 
 [PlaystoreLink]: https://play.google.com/store/apps/details?id=com.AdrianCampos.swipeuputility
