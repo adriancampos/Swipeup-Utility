@@ -2472,7 +2472,18 @@
 			ul.icons li {
 				display: inline-block;
 				padding: 0 1.5em 0 0;
+                font-size: 2.25rem;
 			}
+            @media screen and (max-width: 480px) and (orientation: portrait) {
+
+                  ul.icons li {
+				display: inline-block;
+				padding: 0 1.5em 0 0;
+                font-size: 1.0rem;
+			}
+
+                }
+
 
 				ul.icons li:last-child {
 					padding-right: 0 !important;
