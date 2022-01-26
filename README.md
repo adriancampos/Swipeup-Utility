@@ -1,4 +1,4 @@
-[![][SmIcon]][PlaystoreLink] Swipup Utility
+[![][SmIcon]][PlaystoreLink] Swipeup Utility for Android
 ======================
 ### Hello,
 Swipeup Utility is free, but if you find it useful and want to help its development, I'd love your support. A good [rating][PlaystoreLink] or a small [donation][DonateLink] goes a long way, and if you donate, you'll gain access to some special goodies like new Actions!
@@ -10,10 +10,10 @@ To get updates and participate in the beta program, please join the [Google + co
 
 # How-to
 ### First Setup
-#### If you're on 6.0 or above:
+#### If you're on Android 6.0 or above:
 * Ensure that the default assist app is set to Swipeup Utility. You can get there from [Swipeup Utility][PlaystoreLink]'s `Set Default Assist App` menu item.
 
-#### If you're on 5.1.1 or below:
+#### If you're on Android 5.1.1 or below:
 * After [downloading][PlaystoreLink], hold the home button, swipe up from the bottom of your screen, or do whatever your device requires to activate the assist function.
 * A box asking what to do with the gesture will come up. Choose to always use Swipup Utility. You can change this later by tapping the `Clear defaults` button in the app's menu.
 
